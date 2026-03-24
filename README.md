@@ -2,7 +2,7 @@
 
 ## 📜 Certificate
 
-![Certificate](./Screenshot 2026-03-24 133048.png)
+https://github.com/sreessyyam/deloitte-cyber-job-simulation/blob/main/Screenshot%202026-03-24%20133048.png
 
 ## 🧠 Project Overview
 
